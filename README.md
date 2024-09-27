@@ -38,3 +38,8 @@ We welcome contributions from the community! If you'd like to contribute to Kai 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 # kai-portfolio
+<<<<<<< HEAD
+=======
+# kai-portfolio
+# kai-portfolio
+>>>>>>> 87c900d (first commit)
