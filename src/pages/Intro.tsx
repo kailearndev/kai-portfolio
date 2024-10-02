@@ -64,7 +64,7 @@ const Intro = () => {
 
             </div>
             <code className='break-before-avoid'>
-                <p className='text-blue-400 text-xl animate-sway'>React Developer</p> Experienced in building high-performance web apps using modern technologies like Redux, Tailwind CSS, and RESTful APIs. My focus is on delivering scalable solutions with a strong emphasis on user experience.
+                <p className='text-blue-400 text-xl animate-sway'>Web Developer</p> Experienced in building high-performance web apps using modern technologies like Redux, Tailwind CSS, and RESTful APIs. My focus is on delivering scalable solutions with a strong emphasis on user experience.
             </code>
 
             <a download href='./cv.pdf' className="btn btn-success hover:animate-shake  ">Resume</a>
